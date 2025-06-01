@@ -1,11 +1,6 @@
 # 📊 Sales Insights Dashboard – Graduation Project
 
-🚀 Developed as part of the **AI Ambassadors Program by [NTI-Egypt]
-
 🚀 Developed as part of the **AI Ambassadors Program by [NTI-Egypt](https://www.linkedin.com/company/nti-egypt/)**  
-📅 **Date:** May 2025  
-🛠️ **Tool Used:** Power BI  
-🎓 **Student:** [Your Name Here]
 
 ---
 
