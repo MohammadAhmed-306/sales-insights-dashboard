@@ -2,6 +2,7 @@
 
 🚀 Developed as part of the **AI Ambassadors Program by [NTI-Egypt]
 
+
 🎯 Project Objectives
 
 - Analyze **sales performance** across multiple channels and regions.
