@@ -4,7 +4,7 @@
 
 ---
 
-🎯 Project Objectives
+##🎯 Project Objectives
 
 - Analyze **sales performance** across multiple channels and regions.
 - Evaluate the **impact of promotional offers** on profit.
